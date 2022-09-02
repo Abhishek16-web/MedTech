@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/MedTech/static/css/main.6032b512.css",
+    "main.js": "/MedTech/static/js/main.9a843fc0.js",
+    "static/js/787.28cb0dcd.chunk.js": "/MedTech/static/js/787.28cb0dcd.chunk.js",
+    "static/media/content.png": "/MedTech/static/media/content.6b50abf1e1eebe76fd45.png",
+    "static/media/bg.png": "/MedTech/static/media/bg.5d85d1e360504b0b328a.png",
+    "index.html": "/MedTech/index.html",
+    "main.6032b512.css.map": "/MedTech/static/css/main.6032b512.css.map",
+    "main.9a843fc0.js.map": "/MedTech/static/js/main.9a843fc0.js.map",
+    "787.28cb0dcd.chunk.js.map": "/MedTech/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6032b512.css",
+    "static/js/main.9a843fc0.js"
+  ]
+}
